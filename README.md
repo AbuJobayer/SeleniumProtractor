@@ -15,9 +15,6 @@
 3. In './specs' contain the Test scripts.
 4. In './Data' contain the json file using to get the data. 
 
-
-
-
 ## Run The test
 protractor conf.js
 
@@ -30,3 +27,6 @@ allure open allure-report
 ## Distribute the Report:
 1. zip both allure-report and allure-results.
 2. Unzip both and open index.html from './allure-report' in Firefox Browser.
+
+
+Note: Please do not use my code as your own :-)
